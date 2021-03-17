@@ -1,7 +1,7 @@
 def reward_function(params):
     # Reward parameters
-    FAST_OPTIMAL_SPEED = 1.0
-    MID_OPTIMAL_SPEED = 0.67
+    FAST_OPTIMAL_SPEED = 4.0
+    MID_OPTIMAL_SPEED = 2.68
     
     # Read input parameters
     all_wheels_on_track = params['all_wheels_on_track']
